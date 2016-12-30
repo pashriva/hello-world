@@ -1,5 +1,5 @@
 This is the second rebirth of first.txt
 
-function sayHell(name){
+function sayHello(name){
 	System.out.println("Hi " + name);
 }
